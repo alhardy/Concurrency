@@ -1,3 +1,5 @@
+# Archived and moved to https://github.com/AppMetrics/AppMetrics
+
 # App Metrics Concurrency <img src="https://www.app-metrics.io/images/logo.png" alt="App Metrics" width="50px"/> 
 [![Official Site](https://img.shields.io/badge/site-appmetrics-blue.svg?style=flat-square)](http://app-metrics.io/getting-started/intro.html) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=flat-square)](https://opensource.org/licenses/Apache-2.0)
 
